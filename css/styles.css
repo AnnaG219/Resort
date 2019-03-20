@@ -1,0 +1,38 @@
+h1 {
+  color: purple;
+  font-family: monospace;
+}
+
+h2 {
+  color: purple;
+  font-family: monospace;
+}
+
+h3 {
+  color: darkgreen;
+  font-family: cursive;
+}
+
+p {
+  color: darkblue;
+  font-family: monospace;
+}
+
+ul {
+  color: darkgreen;
+  font-style: italic;
+
+}
+
+ol{
+  color: purple;
+  font-family: monospace;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+img{
+  text-align: center;
+}
